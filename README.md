@@ -1,4 +1,4 @@
-# 코로나맵서비스 클론 테스트
+# 코로나맵서비스 클론 테스트(version 0.9)
 - by 최석철(stonesteel1023)
 - 출처 : https://github.com/nero96in/coronamap_deploy.git
 - 아직 안한 것 (API 추가)
