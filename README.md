@@ -1,11 +1,10 @@
 # 코로나맵서비스 클론 테스트
-- 최석철
+- by 최석철(stonesteel1023)
 - 출처 : https://github.com/nero96in/coronamap_deploy.git
 - 아직 안한 것 (API 추가)
     - 1. [공공 데이터 포털 공적 마스크 판매 현황 API](https://app.swaggerhub.com/apis-docs/Promptech/public-mask-info/20200307-oas3#/)
     - 2. [Kakao map API](http://apis.map.kakao.com/)
-    - 3. 서비스 배포 방법
-    Django 프로젝트를 배포하신 적이 없다면 [AWS EC2 서비스를 통한 Django 배포 방법](https://nerogarret.tistory.com/45)을 참고해 주시길 바랍니다.
+    - 3. 서비스 배포 방법 [AWS EC2 서비스를 통한 Django 배포 방법](https://nerogarret.tistory.com/45) 참고
 
 ## Django를 이용한 지역 코로나맵 제작 Template
 [울산 코로나맵](https://coronamap-ulsan.site/) 개발진들이 **각 지역의 코로나맵 제작**을 좀 더 쉽고 빠르게 제작할 수 있도록 배포한 Django APP입니다. 아래의 가이드라인을 따라 프로젝트를 제작하여 배포하실 수 있습니다. 자신의 지역의 코로나맵을 제작하여 코로나 바이러스 방역에 힘써주세요!
